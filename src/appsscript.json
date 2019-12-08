@@ -9,5 +9,18 @@
       }
     ]
   },
+  "dataStudio": {
+    "name": "MantisHub Connector",
+    "logoUrl": "https://raw.githubusercontent.com/andysumi/datastudio-mantishub-connector/master/logo.png",
+    "company": "andysumi",
+    "companyUrl": "https://github.com/andysumi",
+    "addonUrl": "https://github.com/andysumi/datastudio-mantishub-connector/",
+    "supportUrl": "https://github.com/andysumi/datastudio-mantishub-connector/issues",
+    "description": "This connector can connect to your MantisHub, and bring the data to the Data Studio.",
+    "shortDescription": "This Connector uses MantisHub API to fetch issues.",
+    "authType": [
+      "NONE"
+    ]
+  },
   "exceptionLogging": "STACKDRIVER"
 }
