@@ -1,0 +1,25 @@
+{
+  "name": "datastudio-mantishub-connector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint src -c .eslintrc.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andysumi/datastudio-mantishub-connector.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andysumi/datastudio-mantishub-connector/issues"
+  },
+  "homepage": "https://github.com/andysumi/datastudio-mantishub-connector#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "eslint-plugin-googleappsscript": "^1.0.3"
+  }
+}
