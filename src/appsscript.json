@@ -1,6 +1,13 @@
 {
   "timeZone": "Asia/Tokyo",
   "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "MantisClient",
+        "libraryId": "1T_MgcLpTXHmv87JS9Q-QdBBjIDdaLhsna9vdVv1i274bdqSOorPlFdgu",
+        "version": "2"
+      }
+    ]
   },
   "exceptionLogging": "STACKDRIVER"
 }

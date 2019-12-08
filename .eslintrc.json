@@ -6,7 +6,8 @@
     "googleappsscript/googleappsscript": true
   },
   "globals": {
-    "console": false
+    "console": false,
+    "MantisClient":false
   },
   "rules": {
     "semi": "warn",
